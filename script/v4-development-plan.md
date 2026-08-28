@@ -6,8 +6,12 @@
 
 ## 1) Framing decision
 
-V3 is 24 scenes / **4,957 words**. A 90–100 min feature needs ~9,000–12,000 words.
+V3 is 24 scenes / **4,957 words**. A 90-min feature needs ~9,000–9,500 words.
 V3 is therefore a **compressed narrative pass, not a draft to polish — the creative pass is an expansion to full feature length**, with structure decisions made first and dialogue polish last.
+
+**Locked by @badex (2026-08-28):**
+- **Runtime: 90 minutes, hard cut-off.** Word budget: ~9,000–9,500 (target 90 pages in standard format).
+- **Creative north star: character development first.** Every scene added must make the audience invested in and caring about the characters. Scenes that don't earn that are cut, no matter how useful they look on paper. This is the filter for all expansion decisions.
 
 ## 2) Review lenses (one per reviewer, notes only, no baseline edits)
 
@@ -34,14 +38,14 @@ Existing input already in play:
 
 | # | Decision | Options | Decided by |
 |---|---|---|---|
-| D1 | What exactly is Lina's loss history; what is revealed and when | explicit reveal pre-midpoint / partial / remain ambiguous | @badex + team |
+| D1 | Lina's loss: identity-level yearning, not a medical backstory | **DECIDED 2026-08-28 (@badex):** Lina yearns for something that would complete her, give her purpose — it feels like it defines her. The audience must *see* the loss driving her interactions and thoughts throughout; no clinical explanation required. One concrete emotional reveal before the midpoint makes the yearning explicit (exact scene chosen at structure lock). | locked |
 | D2 | Clinic appointment identity + therapy entry beat | rewire scene 6 / add scene | lead |
 | D3 | Acquisition path for the akuaba (impulse buy vs prior encounter vs community introduction) | keep / revise per consultant | consultant-informed |
 | D4 | Kwame second entry — yes/no, when, what he does | add / hold | lead + consultant |
 | D5 | Rob's profession + private stake + his own mistake | TBD | Claude draft, lead lock |
 | D6 | Compress scenes 12–17 to how many; which concrete classroom consequence to add | merge 12+16 / keep 13 | lead |
 | D7 | Recovery time: how many weeks between scenes 19–24; the one imperfect attempt | 2 wks / 1 month / season | lead |
-| D8 | Target runtime and page count (90 / 100 min) | 90–100 | @badex |
+| D8 | Target runtime | **DECIDED 2026-08-28 (@badex):** 90 minutes, hard cut-off. | locked |
 
 ## 5) Workflow and calendar
 
